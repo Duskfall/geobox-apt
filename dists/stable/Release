@@ -1,0 +1,18 @@
+Origin: GeoBox
+Label: GeoBox
+Suite: stable
+Codename: stable
+Architectures: arm64 amd64
+Components: main
+Description: GeoBox APT Repository
+Date: Sun, 05 Apr 2026 13:47:03 +0000
+MD5Sum:
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-amd64/Packages
+ 26a4bc971d256340a60ec73d808b5df5 489 main/binary-arm64/Packages
+ 9142b4a0d77f06533eddaf47cbf3db74 29 main/binary-amd64/Packages.gz
+ 5c01fd4f586360b34af1daa8304f91f4 387 main/binary-arm64/Packages.gz
+SHA256:
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-amd64/Packages
+ f0028923ed718ee4a11a1031e8a495bbd3161998bd63427aaebf0695cfe49d3d 489 main/binary-arm64/Packages
+ 4340afd59e4e9256a3b0c9710d3a0315d9a8e7a9da2c961df664613dce0dae4a 29 main/binary-amd64/Packages.gz
+ f7ce76a9efb7de024cf507b87e361cddd453c297638d28b70c1ab43d848a73a0 387 main/binary-arm64/Packages.gz

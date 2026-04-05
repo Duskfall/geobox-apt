@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html><head><title>GeoBox APT Repository</title></head>
+<body style="font-family:monospace;background:#0a0a0a;color:#22c55e;padding:2em">
+<h1>GeoBox APT Repository</h1>
+<pre>
+# Add GPG key
+curl -fsSL https://duskfall.github.io/geobox-apt/gpg.key | sudo gpg --dearmor -o /usr/share/keyrings/geobox.gpg
+
+# Add repository
+echo "deb [signed-by=/usr/share/keyrings/geobox.gpg] https://duskfall.github.io/geobox-apt stable main" \
+  | sudo tee /etc/apt/sources.list.d/geobox.list
+
+# Install
+sudo apt update && sudo apt install geobox
+
+# Update
+sudo apt update && sudo apt upgrade geobox
+</pre>
+</body></html>
