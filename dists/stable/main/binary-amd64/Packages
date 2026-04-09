@@ -1,0 +1,14 @@
+Package: geobox
+Version: 1.2.0
+Architecture: amd64
+Maintainer: GeoBox <noreply@geobox.dev>
+Description: WiFi emulation, VPN routing, and TCP fingerprint spoofing platform
+Depends: hostapd, dnsmasq, nftables, iproute2, lxc-utils, systemd, kmod
+Recommends: wpasupplicant, wireless-tools
+Priority: optional
+Section: net
+Filename: pool/main/geobox_1.2.0_amd64.deb
+Size: 5598124
+MD5sum: 854c1dd3e09edafd43e67eab9676d55a
+SHA256: 7973df0611adf5403f49272e3f2f335b2b39ad65b462109411cc90cf4a30d882
+

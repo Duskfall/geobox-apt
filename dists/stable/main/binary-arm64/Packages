@@ -26,3 +26,17 @@ Size: 5172772
 MD5sum: e3bb3e33b6dccceef124997cfd4d2edd
 SHA256: d5697e18d5884eb99c36b4f342d0f6d7f512b4cc06f450e6a0aa66754c8bd88b
 
+Package: geobox
+Version: 1.2.0
+Architecture: arm64
+Maintainer: GeoBox <noreply@geobox.dev>
+Description: WiFi emulation, VPN routing, and TCP fingerprint spoofing platform
+Depends: hostapd, dnsmasq, nftables, iproute2, lxc-utils, systemd, kmod
+Recommends: wpasupplicant, wireless-tools
+Priority: optional
+Section: net
+Filename: pool/main/geobox_1.2.0_arm64.deb
+Size: 5172420
+MD5sum: 244587008d50ccdb2b04da18eae7432c
+SHA256: 40aa231fda826b08103a97c314dc94f611786964098da8fb7527cd295bed166a
+
