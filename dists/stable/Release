@@ -5,14 +5,14 @@ Codename: stable
 Architectures: arm64 amd64
 Components: main
 Description: GeoBox APT Repository
-Date: Thu, 09 Apr 2026 21:54:07 +0000
+Date: Thu, 09 Apr 2026 22:07:56 +0000
 MD5Sum:
- ff61721b10873598b5a29d5812f8907e 489 main/binary-amd64/Packages
- 5c2f8faf6c49f73343917b76c4bca597 1467 main/binary-arm64/Packages
- f7f7ec1e5cf3a350a7881100a66a0529 389 main/binary-amd64/Packages.gz
- cced6457ee7123e4d93d16d73a93ded7 559 main/binary-arm64/Packages.gz
+ c6d9f2f683607c36d96b78423b5aae69 978 main/binary-amd64/Packages
+ 30115c905e8467db184084d3078b81bd 1956 main/binary-arm64/Packages
+ 6f80a8c7ea1e3141674ee33711c36b1c 476 main/binary-amd64/Packages.gz
+ ae7d9f22b6e44d445c5687777cb87b51 638 main/binary-arm64/Packages.gz
 SHA256:
- 6fc335a6f93a65a68dba74427ba76cec61f146168d6716c79865aa95c0b5ae76 489 main/binary-amd64/Packages
- 97c9bb5360d45472be3d3d6b74fa006cf6c35de890d606f0ccec056597bfd5f2 1467 main/binary-arm64/Packages
- 8b42ee4498416ddbc5b7ce3a9d0c91370e29d29f1c88d4418f4533ef0fbbc168 389 main/binary-amd64/Packages.gz
- 621cd6e593045e3c802ffb23c9ceb15927767df5e39b4138479284f3a46da284 559 main/binary-arm64/Packages.gz
+ 7872fbc4b967b27c67589886157cff3f9c48dc519e899524d99fcff100e5d84d 978 main/binary-amd64/Packages
+ 2fe1a97e88465b8e28412c5ca1697ffe16d73254cf084f76a301afdf4faf95ac 1956 main/binary-arm64/Packages
+ 2f313007212d7bc3d1d54a2c12eefd99ef61c157eb8db5fd633bd4fae6b2a87b 476 main/binary-amd64/Packages.gz
+ f4b8948a0c454281e41a6448c9c500c8f04849af02bff9f1d10d677bdf9d418f 638 main/binary-arm64/Packages.gz
