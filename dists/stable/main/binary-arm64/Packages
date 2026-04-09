@@ -120,7 +120,7 @@ Recommends: wpasupplicant, wireless-tools
 Priority: optional
 Section: net
 Filename: pool/main/geobox_1.3.5_arm64.deb
-Size: 6718994
-MD5sum: 48704e8b7b4c6cc92bc3bff38a2bc80f
-SHA256: 9def395a48ef8184eb2ad4a195405883af6a64f236b7426e45583891d4dd4680
+Size: 6719234
+MD5sum: b74e905240c1469d26d6b5265333fa4b
+SHA256: a6edefbd365aa86f626830ca200922440298f4f8cea31028b67a550b0b69897e
 

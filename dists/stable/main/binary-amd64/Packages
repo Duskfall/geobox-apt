@@ -92,7 +92,7 @@ Recommends: wpasupplicant, wireless-tools
 Priority: optional
 Section: net
 Filename: pool/main/geobox_1.3.5_amd64.deb
-Size: 7137928
-MD5sum: a9669f2c2f50201373742f32d292f65b
-SHA256: b0a633dd34731a0903e07fd1d61175ac3b6d55f2ebfe8b3464c0ba0696d8156c
+Size: 7137990
+MD5sum: 77f7ee3401b0aac40bcc9852b80adff2
+SHA256: 06e5704575279667005813db884409df52efd3abdcc8d22b778b3e664e6c1378
 
